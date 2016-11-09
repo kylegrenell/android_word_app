@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wee Word Counter</string>
+    <string name="type_text">Gee us some text</string>
+    <string name="find_count">Count em up pal</string>
+</resources>
